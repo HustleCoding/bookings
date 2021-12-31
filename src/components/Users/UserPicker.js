@@ -1,6 +1,6 @@
 import React from "react";
 
-const UsersPicker = () => {
+const UserPicker = () => {
   return (
     <select>
       <option>Users</option>
@@ -8,4 +8,4 @@ const UsersPicker = () => {
   );
 };
 
-export default UsersPicker;
+export default UserPicker;
